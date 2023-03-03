@@ -16,6 +16,7 @@
 ✉️ If you are seeking a skilled data scientist with a solid foundation in data science, exceptional problem-solving abilities, and a strong drive for uncovering business insights, please do not hesitate to reach out to me on LinkedIn. I would welcome the opportunity to discuss potential openings and how my expertise can benefit your organization.
 
 <img align="right" alt="Coding" width="300" src="https://static.wixstatic.com/media/17ac83_810739dfef3941449effd1751ba1c080~mv2.gif">
+
 - 📫 Reach me at: **bharathsimhakarumudi@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
