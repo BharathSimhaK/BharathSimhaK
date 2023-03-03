@@ -11,7 +11,7 @@
 🗣️ I am a team player with strong communication and collaboration skills. I am able to work well in a team environment and have a proven track record of delivering results in a timely and efficient manner.
 
 
-📊 In my previous internships and academic projects, I have demonstrated the ability to extract valuable insights from large and complex datasets, and to use those insights to drive business decisions. I am a team player with strong communication and collaboration skills, and I am eager to put my skills to work for a dynamic and forward-thinking organization.
+📊 In my previous internships and academic projects, I have demonstrated the ability to extract valuable insights from large and complex datasets, and to use those insights to drive business decisions. I am eager to put my skills to work for a dynamic and forward-thinking organization.
 
 🤝 As a National Service Scheme (NSS) volunteer, I have dedicated over 240 hours of social service during my undergraduate studies. I am committed to giving back to my community through data science.
 
