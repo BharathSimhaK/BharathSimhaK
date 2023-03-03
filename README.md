@@ -13,7 +13,7 @@
 
 📊 In my previous internships and academic projects, I have demonstrated the ability to extract valuable insights from large and complex datasets, and to use those insights to drive business decisions. I am a team player with strong communication and collaboration skills, and I am eager to put my skills to work for a dynamic and forward-thinking organization.
 
-🤝 As a National Service Scheme (NSS) volunteer, I have dedicated over 240 hours of social service during my undergraduate studies. I am committed to giving back to my community and I am excited to continue volunteering and making a positive impact in the future. If you would like to learn more about my volunteer experience, please feel free to contact me on LinkedIn.
+🤝 As a National Service Scheme (NSS) volunteer, I have dedicated over 240 hours of social service during my undergraduate studies. I am committed to giving back to my community through data science.
 
 ✉️ If you are looking for a data scientist with a strong foundation in data science, excellent problem-solving skills, and a passion for driving business insights, please feel free to  with me, I would be happy to discuss potential opportunities and how I can contribute to your organization.
 
