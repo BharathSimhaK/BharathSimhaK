@@ -4,7 +4,6 @@
 👋🏻 Hello, my name is Bharath Simha Karumudi and I am a recent Data Science graduate from the University of Bristol. I am a highly skilled data scientist with a passion for leveraging data to drive business insights and improve decision-making processes.
 
 👨🏻‍🎓 During my time at the University of Bristol, I acquired expertise in various data science techniques and tools, including machine learning, statistical analysis, and data visualization. 
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
 - 💬 Ask me about: **Python, Tableau, Machine Learning, Data Analytics, AI, NLP, Excel, AWS.**
 
