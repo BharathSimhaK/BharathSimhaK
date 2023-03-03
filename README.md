@@ -15,7 +15,7 @@
 
 🤝 As a National Service Scheme (NSS) volunteer, I have dedicated over 240 hours of social service during my undergraduate studies. I am committed to giving back to my community through data science.
 
-✉️ If you are looking for a data scientist with a strong foundation in data science, excellent problem-solving skills, and a passion for driving business insights, please feel free to  with me, I would be happy to discuss potential opportunities and how I can contribute to your organization.
+✉️ If you are looking for a data scientist with a strong foundation in data science, excellent problem-solving skills, and a passion for driving business insights, please feel free to reach me, I would be happy to discuss potential opportunities and how I can contribute to your organization.
 
 - 📫 Reach me at: **bharathsimhakarumudi@gmail.com**
 
